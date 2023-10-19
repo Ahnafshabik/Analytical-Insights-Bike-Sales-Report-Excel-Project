@@ -15,7 +15,6 @@ The Excel file "Bike_Sell_Report.xlsx" contains various sheets with data, calcul
 - Sheet 1: Overview Dashboard
 - Sheet 2: Sales Trends Analysis
 - Sheet 3: Customer Demographics
-- ...
 
 ## Tools Used
 - Microsoft Excel
